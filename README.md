@@ -19,11 +19,11 @@ Tasks
 2. Create all models, controllers and views.
 3. Verify that when creating, editing or deleting a record that all related data is also updated.
 4. Configure the authentication:
-  1. Passwords must require a digit, special character, upper, lower, length of 8, unique email address
-  2. Any other security settings you feel appropriate
+  * Passwords must require a digit, special character, upper, lower, length of 8, unique email address
+  * Any other security settings you feel appropriate
 5. Configure Authorization
-  1. Minimum a non logged in user can access an index view only
-  2. Nice to have the links to created, edit and delete are hidden when not logged in
+  * Minimum a non logged in user can access an index view only
+  * Nice to have the links to created, edit and delete are hidden when not logged in
 6. Add what ever cool stuff you think I might like as time permits, be sure to put it in your commit comments so I know what you added
 7. Also comment in your committs anything you found to be confusing or you struggled with
 
